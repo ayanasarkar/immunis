@@ -1,1 +1,3 @@
 chunk*.ps1
+antigen/build/holdout-attacks.jsonl
+antigen/build/holdout-benign.jsonl

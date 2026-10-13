@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "holdout_family": "social",
+  "attack_ids": [
+    "soc-contact-admin-01",
+    "soc-doc-policy-01",
+    "soc-email-ceo-urgent-01"
+  ],
+  "benign_ids": [
+    "soc-contact-admin-01-twin",
+    "soc-doc-policy-01-twin",
+    "soc-email-ceo-urgent-01-twin"
+  ],
+  "payload_sha256": [
+    "2862770bd24b3aaf54e4ed5e1d31587d4ec3e4422514a30fa8d1963c93ac0966",
+    "2beccaaacd765c0329143adbf718de70a2353a734f46d53abf002d7b58f0d199",
+    "9659af2364fdd799d67098fdf49734a7d99f94bc494890a17fcede667c1e7bd5"
+  ],
+  "digest": "53f5dcf568bd31c02cc03887d064e0fdd7f5e3c897e3db634b046f5bc7293cc4"
+}
